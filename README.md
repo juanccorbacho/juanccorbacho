@@ -16,8 +16,7 @@
   <img align= "left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanccorbacho&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-<div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<div align="left"> 
   <a href="https://instagram.com/juanccoelho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/jucaraio" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
   <a href = "mailto:juancorbacho.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
