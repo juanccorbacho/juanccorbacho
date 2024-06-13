@@ -1,7 +1,7 @@
-### <h1>Hello there, Bem-Vindo ao meu perfil!👋</h1> <img align="right" alt="Juan-yoda" heigh="150" width="200" src="https://cdn.discordapp.com/attachments/393264848705814539/1154509374576922714/download20230903220239.png">
+### <h1>Hello there, welcome to my GitHub profile👋</h1> <img align="right" alt="Juan-yoda" heigh="150" width="200" src="https://cdn.discordapp.com/attachments/393264848705814539/1154509374576922714/download20230903220239.png">
 
 
-<p>Olá! 👋 Sou estudante de Análise e Desenvolvimento de Sistemas, com foco especial em programação para o frontend e fullstack. Sou apaixonado por criar interfaces envolventes e amigáveis para o usuário. Sempre animado para aprender e explorar o mundo tecnológico em constante evolução, estou animado para compartilhar minha jornada, projetos e experiências aqui no GitHub.
+<p> Student of Analysis and Systems Development at Descomplica UniAmérica University Center, with a focus on independent Front-end Development and UX Design. Currently interning as a Front-end developer, I have experience with various technologies including TypeScript, JavaScript, Angular, HTML, CSS, Figma, Photoshop, Illustrator, and others.
   <div style="display: inline_block"><br>
   <img align="center" alt="Juan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Juan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
