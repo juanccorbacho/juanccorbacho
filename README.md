@@ -1,24 +1,30 @@
-### <h1>Hello there, welcome to my GitHub profile👋</h1> <img align="right" alt="Juan-yoda" heigh="150" width="200" src="https://cdn.discordapp.com/attachments/393264848705814539/1154509374576922714/download20230903220239.png">
+# Hello there, welcome to my GitHub profile 👋
 
+I am a Front-end Developer and UX Designer with 2 years of experience. Currently, I work as a Junior Front-end Developer at Medisigh for the past 8 months, while also working independently as a UX Designer and Front-end Developer.
 
-<p> Student of Analysis and Systems Development at Descomplica UniAmérica University Center, with a focus on independent Front-end Development and UX Design. Currently interning as a Front-end developer, I have experience with various technologies including TypeScript, JavaScript, Angular, HTML, CSS, Figma, Photoshop, Illustrator, and others.
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Juan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Juan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Juan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Juan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-</p>
+I have experience with various technologies, including TypeScript, Angular, JavaScript, HTML, CSS, Bootstrap, Sass, Tailwind, and design tools such as Figma, Photoshop, and Illustrator. Additionally, I am familiar with agile methodologies like Scrum and Kanban.
 
-<div>
-  <a href="https://github.com/juanccorbacho">
- <img align= "left" height="180em" src="https://github-readme-stats.vercel.app/api?username=juanccorbacho&?count_private=true&show_icons=true&theme=dracula"/> 
-  <img align= "left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanccorbacho&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+### My Skills
 
-<div align="left"> 
-  <a align="left" href="https://instagram.com/juanccoelho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a align="left" href="https://www.twitch.tv/jucaraio" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
-  <a align="left" href = "mailto:juancorbacho.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a align="left" href="https://www.linkedin.com/in/juanccorbacho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+- **Programming Languages & Frameworks:**
+  - TypeScript, JavaScript, Angular, HTML, CSS
+  - Bootstrap, Sass, Tailwind
+
+- **Design Tools:**
+  - Figma, Photoshop, Illustrator
+
+- **Agile Methodologies:**
+  - Scrum, Kanban
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juancorbacho&show_icons=true&theme=dark)
+
+### Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juancorbacho&layout=compact&theme=dark)
+
+### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/juan-corbacho) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/juan) [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.com/juan) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan@gmail.com)
+
