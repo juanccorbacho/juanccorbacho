@@ -12,7 +12,7 @@ I have experience with various technologies, including TypeScript, Angular, Java
 
 - **Tools:**
   - ![My Skills](https://skillicons.dev/icons?i=figma,ps,pr,xd)
-  - - ![My Skills](https://skillicons.dev/icons?i=vscode)
+  - ![My Skills](https://skillicons.dev/icons?i=vscode)
 
 - **Agile Methodologies:**
   - Scrum, Kanban
